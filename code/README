@@ -1,3 +1,5 @@
+*This repository has migrated to https://github.com/swift-lang/swift-t*
+
 lb is a distributed MPI-based load balancer and data-store.
 
 lb depends on:
